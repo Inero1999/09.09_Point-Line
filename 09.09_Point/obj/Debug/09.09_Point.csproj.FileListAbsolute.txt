@@ -1,0 +1,7 @@
+D:\Проекты\C#\09.09_Point\09.09_Point\bin\Debug\09.09_Point.exe.config
+D:\Проекты\C#\09.09_Point\09.09_Point\bin\Debug\09.09_Point.exe
+D:\Проекты\C#\09.09_Point\09.09_Point\bin\Debug\09.09_Point.pdb
+D:\Проекты\C#\09.09_Point\09.09_Point\obj\Debug\09.09_Point.csproj.AssemblyReference.cache
+D:\Проекты\C#\09.09_Point\09.09_Point\obj\Debug\09.09_Point.csproj.CoreCompileInputs.cache
+D:\Проекты\C#\09.09_Point\09.09_Point\obj\Debug\09.09_Point.exe
+D:\Проекты\C#\09.09_Point\09.09_Point\obj\Debug\09.09_Point.pdb
